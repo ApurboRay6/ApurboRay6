@@ -1,5 +1,5 @@
 
-![logo] 
+![logo] ![Image](https://github.com/user-attachments/assets/db8613a1-5f35-44b4-be1d-bfeb9fa99eaf)
 <h1 align="center">Hi 👋, I'm Apurbo Ray </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh </h3>
 
